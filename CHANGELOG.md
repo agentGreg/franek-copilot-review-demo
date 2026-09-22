@@ -2,8 +2,8 @@
 
 ## 2026-09-22
 
-- Initial plan.
+- Dodano wstępny plan prac.
 
 ## 2026-09-21
 
-- Franek zostawia moduł limitów i testy.
+- Dodano README, moduł limitów, testy oraz workflow uruchamiający `npm test`.
