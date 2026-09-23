@@ -13,3 +13,4 @@ FR-001–003: kwoty 6000, 5000, 2000 groszy; wykorzystanie 6000, 11000, 13000. L
 Przejrzyj PR/MR i porównaj z wymaganiem. Potwierdź uwagę na przykładzie, potem dopisz jeden test w osobnym kroku. Zielone testy mogą nie obejmować wszystkich istotnych przypadków. Nie aplikuj diffu do głównego repo warsztatowego.
 
 Review to ocena zmiany. Pisanie testu i poprawka to osobne zadania agenta. Automatyczne uruchomienie review wymaga ustawienia usługi; samo istnienie instrukcji nie włącza automatyzacji.
+TEst
