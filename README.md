@@ -14,4 +14,4 @@ Przejrzyj PR/MR i porównaj z wymaganiem. Potwierdź uwagę na przykładzie, pot
 
 Review to ocena zmiany. Pisanie testu i poprawka to osobne zadania agenta. Automatyczne uruchomienie review wymaga ustawienia usługi; samo istnienie instrukcji nie włącza automatyzacji.
 
-Test dzialania automatycznego CR
+Test działania automatycznego CR
