@@ -1,4 +1,4 @@
-export function helloWorld34(name) {
+export function helloWorld34() {
   var msg = "Hello " + name
   console.log(mesg);
   return;
