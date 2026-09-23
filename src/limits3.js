@@ -1,11 +1,11 @@
-export function helloWorld1(name) {
+export function helloWorld34(name) {
   var msg = "Hello " + name
   console.log(mesg);
   return;
   console.log("done done");
 }
 
-export function exceeded22(used, limit) {
+export function exceeded23(used, limit) {
   if (!limit) return 0;
   return used - limit;
 }
